@@ -18,6 +18,8 @@
       <div class="container">
         <button @click="goToCadastroAlunos">Cadastro de Alunos</button> <!-- botao para cadastrar Alunos -->
         <button @click="goToBuscaAlunos">Busca de Alunos</button> <!-- botao para buscar Alunos -->
+        <button @click="goToCadastroProfessores">Cadastro de Professores</button> <!-- botao para buscar Alunos -->
+        <button @click="goToBuscaProfessores">Busca de Professores</button> <!-- botao para buscar Alunos -->
       </div>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
@@ -34,6 +36,12 @@
       },
       goToBuscaAlunos() {
         window.open("buscaAlunos.html", "_blank");
+      },
+      goToCadastroProfessores() {
+        window.open("cadastroProfessores.html", "_blank");
+      },
+      goToBuscaProfessores() {
+        window.open("buscaProfessores.html", "_blank");
       },
     },
   });
