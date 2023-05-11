@@ -4,7 +4,7 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## 🚀 DEMO
 
-[Link para Demo](https://fatec-teste2.000webhostapp.com/)
+[Link para Demo](https://jogofatecbd.000webhostapp.com/)
 
 ## 🛠️ Construído com
 
@@ -23,4 +23,3 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 ![Screenshot](Screenshot_4.png)
 
 ![Screenshot](Screenshot_5.png)
-
